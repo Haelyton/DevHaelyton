@@ -4,36 +4,7 @@
 - 🌱 I’m currently learning M.E.R.N stack
 - 👯 I’m looking to collaborate on Full-Stack projects
 
-<table>
-  <tr style="border: none;">
-    <td style="border: none;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=OTAIMER20&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=OTAIMER20&show_icons=true&title_color=C00102&icon_color=C00102"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=OTAIMER20&show_icons=true&title_color=C00102&icon_color=C00102" />
-      </picture>
-    </td>
-    <td style="border: none;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OTAIMER20&layout=compact&theme=dark&title_color=C00102"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OTAIMER20&layout=compact&title_color=C00102"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTAIMER20&layout=compact&title_color=C00102" />
-      </picture>
-    </td>
-  </tr>
-</table>
+
 
 ### 📫 Contact Me
 
@@ -47,8 +18,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### 🌟 Quote
-
-_"A única maneira de fazer um ótimo trabalho é amar o que você faz."_ - Steve Jobs
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=OTAIMER20.OTAIMER20)
